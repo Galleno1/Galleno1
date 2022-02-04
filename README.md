@@ -8,3 +8,8 @@
 Galleno1/Galleno1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+ [![card](https://github-readme-stats.vercel.app/api?username=Galleno1&theme=default&show_icons=true)](https://github.com/Galleno1/)
+ 
+ [![Galleno1](https://github-readme-stats.vercel.app/api/top-langs/?username=Galleno1&hide=html&layout=compact&theme=default)](https://github.com/Galleno1/)
+ 
